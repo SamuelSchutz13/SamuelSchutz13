@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://dev.to/samueschutz13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="samueschutz13" height="30" width="40" /></a>
 <a href="https://twitter.com/samuelschutz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuelschutz2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samuelschutz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelschutz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29667631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29667631" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samuel-vi6kp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel-vi6kp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-schutz-a3304a244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelschutz" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22737718/samuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29667631" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCrtIRJ9FyMAFVwJ8uHuOM8Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuel-vi6kp" height="30" width="40" /></a>
 <a href="https://discord.gg/#8961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8961" height="30" width="40" /></a>
 </p>
 
