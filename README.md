@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Imovago**
 
-- 📫 How to reach me **samuelschutz13@gmail.com**
+- 📫 How to reach me **samuelschutz14@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
