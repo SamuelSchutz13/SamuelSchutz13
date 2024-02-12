@@ -31,7 +31,7 @@
 
 <h3>Project under development</h3>
 <ul>
-  <li>🖥️ <a href="https://github.com/Protoncracker/ErgoMonitor?tab=readme-ov-file">ErgoMonitor</a> - ErgoMonitor is an innovative system monitoring solution.</li>
+  <li>Stand By.</li>
 </ul>
 
 <h2>Touch and Contact Me</h2>
