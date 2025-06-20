@@ -4,7 +4,7 @@
 <tr>
 <td valign="top">
 
-### About Me
+<h3 align="center">About Me</h3/>
 
 - 😄 I support open-source projects that help developers and the tech community.
 - 👨🏻‍💻 Currently exploring Full Stack Development while actively building projects using this stack.
@@ -12,7 +12,7 @@
 </td>
 <td valign="top">
 
-### Technologies and Tools
+<h3 align="center">Technologies and Tools</h3/>
 
 **Languages:**  
 <img src="https://skillicons.dev/icons?i=c,go,java,js,php,py,ts&theme=dark" />
