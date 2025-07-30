@@ -28,8 +28,8 @@
 <details>
   <summary>Github Stats</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SamuelSchutz13&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSchutz13&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SamuelSchutz13&theme=transparent&count_private=true&hide_border=true&line_height=20&title_color=fff&icon_color=79ff97\&text_color=9f9f9f)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSchutz13&layout=compact&theme=transparent&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97\&text_color=9f9f9f)</a>
 </details>
 
 <h2>Projects</h2>
