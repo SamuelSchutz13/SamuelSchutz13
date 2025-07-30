@@ -25,6 +25,11 @@
 </tr>
 </table>
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/720822007997923328?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/720822007997923328)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/720822007997923328)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/720822007997923328)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
 <h2>Projects</h2>
 
 - 🤖 [**Solaris**](https://github.com/SamuelSchutz13/Solaris)  
