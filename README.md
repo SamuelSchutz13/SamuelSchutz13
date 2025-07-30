@@ -25,6 +25,13 @@
 </tr>
 </table>
 
+<details>
+  <summary>Github Stats</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=SamuelSchutz13&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSchutz13&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
+</details>
+
 <h2>Projects</h2>
 
 - 🤖 [**Solaris**](https://github.com/SamuelSchutz13/Solaris)  
