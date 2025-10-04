@@ -19,7 +19,7 @@
 **Frameworks & Libraries:**  
 <img src="https://skillicons.dev/icons?i=bun,htmx,nodejs,prisma,react,symfony,tailwind,vue&theme=dark" />
 **Databases & DevOps:**  
-<img src="https://skillicons.dev/icons?i=docker,git,kubernetes,mysql,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,kubernetes,mysql,postgres,redis,sqlite&theme=dark" />
 
 </td>
 </tr>
