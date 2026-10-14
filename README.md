@@ -34,9 +34,6 @@
 
 <h2>Projects</h2>
 
-- 🤖 [**Solaris**](https://github.com/SamuelSchutz13/Solaris)  
-  WhatsApp bot with multiple functionalities (currently deprecated). Includes features such as automation, information retrieval, and more.
-
 - ⚙️ *More projects coming soon...*
 ### In Progress Projects
 
