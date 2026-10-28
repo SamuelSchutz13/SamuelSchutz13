@@ -48,9 +48,9 @@
 | [**FoculessPad**](https://github.com/SamuelSchutz13/FoculessPad) | Real-time notepad with optional end-to-end encrypted notes. | Vue · NestJS · Yjs |
 | [**Spotify Control**](https://github.com/SamuelSchutz13/AHK-SpotifyControl) | Global shortcuts to control Spotify from anywhere in Windows. | AutoHotkey v2 |
 
-<p align="center"><a href="https://samuelschutz13.github.io">See them all, with screenshots, on my portfolio →</a></p>
 
- <summary>📊 GitHub stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelSchutz13&theme=transparent&count_private=true&hide_border=true&line_height=20&title_color=fff&icon_color=79ff97&text_color=9f9f9f" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSchutz13&layout=compact&theme=transparent&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f" alt="Top languages" />
+# 📊 GitHub stats
+  <p align="center">
+    <img width="38%" src="https://github-stats-extended.vercel.app/api?username=SamuelSchutz13&theme=transparent&count_private=true&hide_border=true&line_height=20&title_color=fff&icon_color=79ff97&text_color=9f9f9f" alt="GitHub stats" />
+    <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSchutz13&layout=compact&theme=transparent&count_private=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f" alt="Top languages" />
+  </p>
