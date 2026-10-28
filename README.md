@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://samuelschutz13.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-samuelschutz13.github.io-f1d87a?style=for-the-badge&labelColor=1d1b19"></a>
   <a href="https://www.linkedin.com/in/samuel-schutz-a3304a244/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Samuel%20Schutz-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:samuelschutz14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
